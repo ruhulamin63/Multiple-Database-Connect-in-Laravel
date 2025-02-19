@@ -4,7 +4,7 @@ To set up multiple databases, you just add them to the `config/database.php` fil
 After you've set up the databases, you can use them anywhere in your app by saying which one to use when you make a database request. You can easily switch between databases while your app is running, so you can work with different data sources without any trouble.
 
 ```bash
-git clone https://github.com/ruhulamin63/Multiple-Database-Connect-in-Laravell.git
+git clone https://github.com/ruhulamin63/Multiple-Database-Connect-in-Laravel.git
 ```
 
 ```bash
