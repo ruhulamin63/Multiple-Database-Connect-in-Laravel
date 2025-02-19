@@ -31,8 +31,13 @@ php artisan migrate
 ```
 
 ### Public Access Route
+For first db access
 ```bash
-localhost:8000/telescope/requests
+localhost:8000/get-mysql-products
+```
+For second db access
+```bash
+localhost:8000/get-mysql-second-products
 ```
 
 ### Set ENV Variable
